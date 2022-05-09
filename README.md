@@ -1,7 +1,7 @@
 # Notes App
 Notes app in React.  
 
-Live preview: coming soon
+Live preview: https://ioanat94.github.io/notes-app/
 
 How to run the project:  
 
